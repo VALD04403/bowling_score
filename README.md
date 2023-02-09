@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a Node.js project designed to solve [insert project purpose here]. It is built using the latest technology stack to ensure efficiency, scalability, and security.
+This is a Node.js project designed to calculated 1 person bowling score.
 
 ## Prerequisites
 
